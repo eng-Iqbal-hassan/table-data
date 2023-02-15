@@ -3,6 +3,10 @@ h1 {
   font-weight: 800;
 }
 
+body {
+  font-family: "SF Pro Display";
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +16,6 @@ h1 {
 body {
   background-color: #000000;
   color: white;
-  font-family: "SF Pro Display";
 }
 
 h1 {
